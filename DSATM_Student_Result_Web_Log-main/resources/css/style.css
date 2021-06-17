@@ -1,0 +1,62 @@
+body{
+    height: 100vh;
+}
+
+.enter_heading {
+    margin-left: 155px;
+}
+
+.form1{
+    margin-left: 155px;
+}
+
+.student-info{
+   margin-left: 250px;
+   padding-left: 100px;
+   margin-top: 70px;
+   margin-bottom:25px
+}
+
+.sisub-headings{
+    text-align: left;
+}
+
+
+
+.button-custom-{
+    margin-left: 5px;
+    padding-left: 10px;
+}
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 65%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
+.result-st-info{
+    margin-left: 150px;
+}
+
+
+
+footer {
+    background-color: #212529;
+    text-align: center;
+    color: rgba(255,255,255,.5);
+    padding-top: 30px;
+    padding-bottom: 15px;
+    font-size: 100%;
+}
